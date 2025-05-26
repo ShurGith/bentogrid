@@ -1,6 +1,6 @@
 function App() {
   return (
-    <div className="min-w-full w-full border lg:h-screen bg-gray-100 lg:pb-50 flex justify-center ">
+    <div className="min-w-full w-full lg:h-screen bg-gray-100 lg:pb-50 flex justify-center ">
       <div className="min-w-full w-full flex flex-col lg:grid lg:grid-cols-12 lg:grid-rows-12 gap-6 lg:gap-12 lg:w-5/6 lg:margin-auto">
         <div className="min-w-full  lg:col-start-1 lg:col-end-4 lg:row-span-6 bg-yelowone rounded-xl flex flex-col justify-center items-center px-18 gap-10 ">
           <h1 className="text-5xl/10 tracking-tighter font-light">
